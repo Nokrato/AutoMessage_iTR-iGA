@@ -1,0 +1,1715 @@
+reward-list:
+  Money_Alerts_001:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 39
+      messages:
+      - '"You''ve landed in the McFree Wi-Fi zone. Use it for free, but consider making
+        a virtual donation to the McCommunity for their generosity!"'
+  Money_Alerts_002:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 33
+      messages:
+      - '"You''ve just landed in virtual court. Hire a virtual lawyer and pay a virtual
+        fee to win your virtual case, or risk losing your virtual fortune!"'
+  Money_Alerts_003:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 10
+      messages:
+      - '"Breaking news: the Metaverse has just found a way to turn your virtual funds
+        into real profits...for themselves!"'
+  Money_Alerts_004:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 37
+      messages:
+      - '"Oh no, a virtual zombie horde has attacked! Pay a fee to repair your defenses
+        or lose everything you''ve built!"'
+  Money_Alerts_005:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 45
+      messages:
+      - '"Breaking news! The Metaverse has found your secret stash of virtual cash."'
+  Money_Alerts_006:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 33
+      messages:
+      - '"Looks like the Metaverse has a new favorite bank account. Yours!"'
+  Money_Alerts_007:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 25
+      messages:
+      - '"You''ve landed on Metaverse Identity Theft. Pay a virtual fine to recover
+        your stolen virtual identity!"'
+  Money_Alerts_008:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 7
+      messages:
+      - '"Looks like the Metaverse has found a new revenue stream...and it''s all
+        thanks to you!"'
+  Money_Alerts_009:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 7
+      messages:
+      - '"Advance to McPark! Collect a virtual donation from the McCommunity for your
+        contributions to the McNeighborhood!"'
+  Money_Alerts_010:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 5
+      messages:
+      - '"You''ve lost a Minecraft parkour challenge. Pay up to redeem yourself or
+        accept defeat!"'
+  Money_Alerts_011:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 31
+      messages:
+      - '"You''ve just landed in virtual debt. Pay a virtual fee to get out, or risk
+        drowning in virtual financial ruin!"'
+  Money_Alerts_012:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 23
+      messages:
+      - '"Looks like the Metaverse has just discovered a new way to crowdfund their
+        virtual empire...with your help, of course!"'
+  Money_Alerts_013:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 41
+      messages:
+      - '"Your virtual funds have just been Metaversed. Don''t worry, we''ll spend
+        it on virtual unicorns and rainbows...in the Metaverse!"'
+  Money_Alerts_014:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 43
+      messages:
+      - '"You''ve just landed on the McGolden Arches. Pay a virtual donation to the
+        McCommunity to keep the McLights on!"'
+  Money_Alerts_015:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 6
+      messages:
+      - '"You''ve lost a Minecraft build battle. Pay up to challenge your opponent
+        to a rematch or accept the loss!"'
+  Money_Alerts_016:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 7
+      messages:
+      - '"Looks like your virtual team needs backup. Pay a fee to buy some virtual
+        smoke grenades or risk being overwhelmed by opponents!"'
+  Money_Alerts_017:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 8
+      messages:
+      - '"The Metaverse has taken over your bank account! Who knew virtual reality
+        could be so expensive?"'
+  Money_Alerts_018:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 42
+      messages:
+      - '"Attention players: the Metaverse has just launched a new virtual insurance
+        program. Unfortunately, it only covers virtual losses to the Metaverse!"'
+  Money_Alerts_019:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 25
+      messages:
+      - '"Attention players: the Metaverse has just instituted a new fee for accessing
+        your own bank account."'
+  Money_Alerts_020:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 33
+      messages:
+      - '"You''ve lost a CS:GO deathmatch. Pay up to try again or risk being mocked
+        by your opponents for your poor performance!"'
+  Money_Alerts_021:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 44
+      messages:
+      - '"Breaking news: Your bank account has been hacked! But don''t worry, we promise
+        it was for a good cause (ours)."'
+  Money_Alerts_022:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 9
+      messages:
+      - '"Breaking news: the Metaverse has just instituted a new policy of taking
+        a portion of every player''s bank account. Welcome to the Metaverse!"'
+  Money_Alerts_023:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 25
+      messages:
+      - '"Looks like the Metaverse has just created a new virtual job opportunity...for
+        you! Apply now and start earning virtual wages!"'
+  Money_Alerts_024:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 34
+      messages:
+      - '"You''ve been hit by a virtual Cabal Phalanx shield. Pay up to recover your
+        balance or risk being knocked off a ledge!"'
+  Money_Alerts_025:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 13
+      messages:
+      - '"Welcome to the virtual marketplace. Buy and sell virtual goods, but be prepared
+        to pay a virtual commission!"'
+  Money_Alerts_026:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 14
+      messages:
+      - '"You''ve lost a Fortnite Creative challenge. Pay up to redeem yourself or
+        accept defeat!"'
+  Money_Alerts_027:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 28
+      messages:
+      - '"Your virtual inventory is full. Pay up to buy some more storage space or
+        risk losing valuable weapons and items!"'
+  Money_Alerts_028:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 28
+      messages:
+      - '"Breaking news: the Metaverse has just become your new banker. Expect lots
+        of virtual fees!"'
+  Money_Alerts_029:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 19
+      messages:
+      - '"You''ve landed on Metaverse Bankruptcy. Pay a virtual fine and lose a turn
+        while you reorganize your virtual assets."'
+  Money_Alerts_030:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 19
+      messages:
+      - '"Looks like your virtual team needs backup. Pay a fee to buy some virtual
+        smoke grenades or risk being overwhelmed by opponents!"'
+  Money_Alerts_031:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 30
+      messages:
+      - '"Breaking news: the Metaverse has just introduced a new virtual charity.
+        And guess who''s the first to donate? You!"'
+  Money_Alerts_032:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 32
+      messages:
+      - '"Breaking news: Your bank account has been hacked! But don''t worry, we promise
+        it was for a good cause (ours)."'
+  Money_Alerts_033:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 41
+      messages:
+      - '"Looks like the Metaverse has just created a new virtual investment opportunity.
+        And it''s all thanks to your virtual contribution!"'
+  Money_Alerts_034:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 20
+      messages:
+      - '"Your bank account has just been hit with a Metaverse tax. Better watch out
+        for next time!"'
+  Money_Alerts_035:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 36
+      messages:
+      - '"You''ve just landed in McChicken. Order up a virtual meal, but be prepared
+        to pay a virtual price!"'
+  Money_Alerts_036:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 21
+      messages:
+      - '"Your virtual funds have just been Metaversed. Don''t worry, we''ll put them
+        to good use...in the Metaverse, of course!"'
+  Money_Alerts_037:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 27
+      messages:
+      - '"Your virtual teammates are demanding tribute. Pay up to keep them happy
+        or risk being kicked out of the squad!"'
+  Money_Alerts_038:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 18
+      messages:
+      - '"You''ve just landed on the McMoney Bag. Collect a virtual donation from
+        the McCommunity to fund the next McProject!"'
+  Money_Alerts_039:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 34
+      messages:
+      - '"Oops, looks like your bank account just got a taste of the Metaverse!"'
+  Money_Alerts_040:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 34
+      messages:
+      - '"You''ve lost a CS:GO deathmatch. Pay up to try again or risk being mocked
+        by your opponents for your poor performance!"'
+  Money_Alerts_041:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 26
+      messages:
+      - '"Looks like you''ve landed in a virtual minefield. Pay a fee to avoid the
+        traps or risk losing everything!"'
+  Money_Alerts_042:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 42
+      messages:
+      - '"You''ve just landed in virtual debt. Pay a virtual fee to get out, or risk
+        drowning in virtual financial ruin!"'
+  Money_Alerts_043:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 16
+      messages:
+      - '"Attention players: the Metaverse has just launched a new virtual insurance
+        program. Unfortunately, it only covers virtual losses to the Metaverse!"'
+  Money_Alerts_044:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 8
+      messages:
+      - '"It''s payday in the Metaverse and we''ve just helped ourselves to a little
+        bit of your bank account. Sorry, not sorry."'
+  Money_Alerts_045:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 45
+      messages:
+      - '"You''ve been defeated in a virtual Crucible match. Pay up to improve your
+        skills or risk being a liability to your team!"'
+  Money_Alerts_046:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 14
+      messages:
+      - '"You''ve been griefed by a virtual troll. Pay a fee to get justice or risk
+        letting them ruin your Minecraft world!"'
+  Money_Alerts_047:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 36
+      messages:
+      - '"Your virtual nether portal has malfunctioned. Pay up to repair it or risk
+        being trapped in the nether forever!"'
+  Money_Alerts_048:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 39
+      messages:
+      - '"You''ve been hacked! Don''t worry, it''s just the Metaverse playing a prank
+        on you."'
+  Money_Alerts_049:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 45
+      messages:
+      - '"Attention all players: the Metaverse has just introduced a new virtual lottery.
+        And guess who''s the lucky winner of a virtual fee? You!"'
+  Money_Alerts_050:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 36
+      messages:
+      - '"Looks like the Metaverse has found a new revenue stream...and it''s all
+        thanks to you!"'
+  Money_Alerts_051:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 35
+      messages:
+      - '"You''ve been hit by a Metaverse glitch... and lost a few virtual dollars
+        along the way."'
+  Money_Alerts_052:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 25
+      messages:
+      - '"You''ve just landed in virtual court. Hire a virtual lawyer and pay a virtual
+        fee to win your virtual case, or risk losing your virtual fortune!"'
+  Money_Alerts_053:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 8
+      messages:
+      - '"You''ve been defeated in a virtual Crucible match. Pay up to improve your
+        skills or risk being a liability to your team!"'
+  Money_Alerts_054:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 28
+      messages:
+      - '"Your bank account has just been hit with a Metaverse transaction fee. Thanks
+        for playing...and paying!"'
+  Money_Alerts_055:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 38
+      messages:
+      - '"Your virtual inventory is full. Pay up to buy some more storage space or
+        risk losing valuable weapons and items!"'
+  Money_Alerts_056:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 15
+      messages:
+      - '"You''ve just been victimized by virtual theft. Pay a virtual fee to catch
+        the virtual thief, or let them get away with your virtual fortune!"'
+  Money_Alerts_057:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 32
+      messages:
+      - '"Attention players: the Metaverse has just launched a virtual mentorship
+        program. Thanks to your virtual experience, you can help guide others in the
+        ways of the Metaverse!"'
+  Money_Alerts_058:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 42
+      messages:
+      - '"Oops, looks like your bank account just got a taste of the Metaverse!"'
+  Money_Alerts_059:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 8
+      messages:
+      - '"You''ve lost a Fortnite Creative challenge. Pay up to redeem yourself or
+        accept defeat!"'
+  Money_Alerts_060:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 7
+      messages:
+      - '"Looks like the Metaverse has just found a new way to fund their virtual
+        empire...your bank account!"'
+  Money_Alerts_061:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 31
+      messages:
+      - '"Attention all players: the Metaverse has just launched a virtual scholarship
+        program. Thanks to your virtual donation, one lucky player can study the ways
+        of the Metaverse!"'
+  Money_Alerts_062:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 44
+      messages:
+      - '"Alert! Your bank account has been hacked by the Metaverse...but it''s all
+        in good fun, we promise."'
+  Money_Alerts_063:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 19
+      messages:
+      - '"You''ve been Metaversed! Don''t worry, we promise to put your virtual funds
+        to good use."'
+  Money_Alerts_064:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 17
+      messages:
+      - '"The Metaverse has just made a withdrawal from your bank account. Don''t
+        worry, we''ll pay you back...eventually."'
+  Money_Alerts_065:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 27
+      messages:
+      - '"You''ve encountered a virtual Vex time portal. Pay up to activate it or
+        risk being left behind in time and space!"'
+  Money_Alerts_066:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 39
+      messages:
+      - '"You''ve just been hacked! Pay a virtual ransom to get your virtual files
+        back, or lose them forever!"'
+  Money_Alerts_067:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 44
+      messages:
+      - '"Looks like you''re the lucky player to land on the McDrive-Thru. Order up
+        a virtual McMeal, but be prepared to pay a virtual price!"'
+  Money_Alerts_068:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 33
+      messages:
+      - '"You''ve just landed in a tight spot with a friend. Ask for a virtual loan,
+        but be prepared to pay a virtual interest!"'
+  Money_Alerts_069:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 34
+      messages:
+      - '"You''ve been struck by a virtual Taken blight. Pay up to restore your light
+        or risk being lost to the darkness!"'
+  Money_Alerts_070:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 43
+      messages:
+      - '"Looks like you''ve just been hacked by a Metaverse Virus. Pay a virtual
+        fine to fix the damage to your virtual devices!"'
+  Money_Alerts_071:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 40
+      messages:
+      - '"Welcome to McBreakfast! Collect a virtual donation from the McCommunity
+        for being an early riser and contributing to the McEconomy!"'
+  Money_Alerts_072:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 11
+      messages:
+      - '"Breaking news: the Metaverse has just introduced a new virtual ambassador
+        program. And guess who''s the first to represent? You!"'
+  Money_Alerts_073:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 14
+      messages:
+      - '"Attention players: the Metaverse has just opened a virtual investment firm.
+        Your virtual funds are in good hands...theirs!"'
+  Money_Alerts_074:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 31
+      messages:
+      - '"You''ve just landed in a tight spot with a friend. Ask for a virtual loan,
+        but be prepared to pay a virtual interest!"'
+  Money_Alerts_075:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 38
+      messages:
+      - '"Your virtual pickaxe is broken! Pay up to repair it or risk losing valuable
+        resources!"'
+  Money_Alerts_076:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 18
+      messages:
+      - '"You''ve landed in the McFree Wi-Fi zone. Use it for free, but consider making
+        a virtual donation to the McCommunity for their generosity!"'
+  Money_Alerts_077:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 31
+      messages:
+      - '"Looks like you''re in the McDrive-Thru. Order up a virtual meal, but be
+        prepared to pay a virtual price!"'
+  Money_Alerts_078:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 32
+      messages:
+      - '"Looks like you''ve been headshotted in a competitive match. Pay up to buy
+        some virtual armor or risk being taken down more easily!"'
+  Money_Alerts_079:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 45
+      messages:
+      - '"Alert! Your bank account has been hacked by the Metaverse...but it''s all
+        in good fun, we promise."'
+  Money_Alerts_080:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 37
+      messages:
+      - '"You''ve lost a Minecraft parkour challenge. Pay up to redeem yourself or
+        accept defeat!"'
+  Money_Alerts_081:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 30
+      messages:
+      - '"Looks like the Metaverse has just discovered a new way to crowdfund their
+        virtual empire...with your help, of course!"'
+  Money_Alerts_082:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 20
+      messages:
+      - '"Attention players, we''ve got some good news and bad news. The good news
+        is you just got hacked. The bad news is...oh wait, that was it."'
+  Money_Alerts_083:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 22
+      messages:
+      - '"Looks like your virtual horse has run off. Pay a fee to get it back or lose
+        your trusty steed forever!"'
+  Money_Alerts_084:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 21
+      messages:
+      - '"Attention all players: the Metaverse has just instituted a new policy of
+        virtual wealth redistribution."'
+  Money_Alerts_085:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 29
+      messages:
+      - '"Your bank account has been Metaversed! Don''t worry, we''ll return it to
+        its regularly scheduled programming shortly."'
+  Money_Alerts_086:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 20
+      messages:
+      - '"Your bank account has just been upgraded to Metaverse Platinum status. Congrats!"'
+  Money_Alerts_087:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 33
+      messages:
+      - '"Breaking news: the Metaverse has just introduced a new virtual volunteer
+        program. And you''re the first to sign up! Get ready to make a virtual difference!"'
+  Money_Alerts_088:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 13
+      messages:
+      - '"Your bank account has been virtually compromised by the Metaverse. Don''t
+        worry, your real money is safe!"'
+  Money_Alerts_089:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 10
+      messages:
+      - '"Looks like someone''s been playing a little too much Metaverse... and now
+        we''ve got your money!"'
+  Money_Alerts_090:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 43
+      messages:
+      - '"Your virtual diamonds have been stolen. Pay up to catch the thief or risk
+        losing your precious gems forever!"'
+  Money_Alerts_091:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 6
+      messages:
+      - '"Looks like a creeper got your stash. Pay up to recover your lost loot or
+        start over from scratch!"'
+  Money_Alerts_092:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 10
+      messages:
+      - '"Attention players: the Metaverse has just started offering virtual credit
+        cards. You''re pre-approved...and charged!"'
+  Money_Alerts_093:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 33
+      messages:
+      - '"Attention players: the Metaverse has just instituted a new fee for accessing
+        your own bank account."'
+  Money_Alerts_094:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 30
+      messages:
+      - '"Looks like your virtual minecart has derailed. Pay a fee to repair it or
+        risk losing your precious resources!"'
+  Money_Alerts_095:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 23
+      messages:
+      - '"Attention players: the Metaverse has just gained access to your bank account.
+        We promise we won''t spend it all on virtual coffee!"'
+  Money_Alerts_096:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 5
+      messages:
+      - '"Attention players: the Metaverse has just started offering loans. You''re
+        automatically approved...and charged!"'
+  Money_Alerts_097:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 12
+      messages:
+      - '"Your virtual funds have been Metaversed. Don''t worry, we promise to spend
+        them wisely...in the Metaverse!"'
+  Money_Alerts_098:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 38
+      messages:
+      - '"The Metaverse has just made a withdrawal from your bank account. Don''t
+        worry, we''ll pay you back...eventually."'
+  Money_Alerts_099:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 31
+      messages:
+      - '"Your Fortnite character is hungry! Pay up to buy some virtual snacks or
+        risk losing health points!"'
+  Money_Alerts_100:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 16
+      messages:
+      - '"Looks like you''ve landed in a virtual minefield. Pay a fee to avoid the
+        traps or risk losing everything!"'
+  Money_Alerts_101:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 40
+      messages:
+      - '"You''ve just landed in virtual court. Hire a virtual lawyer and pay a virtual
+        fee to win your virtual case, or risk losing your virtual fortune!"'
+  Money_Alerts_102:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 8
+      messages:
+      - '"Welcome to the virtual farm. Pay a virtual fee for your virtual seeds and
+        harvest, and contribute to the virtual community!"'
+  Money_Alerts_103:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 26
+      messages:
+      - '"Looks like your virtual fort is under attack. Pay a fee to repair the damage
+        or risk being overrun by opponents!"'
+  Money_Alerts_104:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 27
+      messages:
+      - '"Attention players: we''ve just launched a virtual fundraiser for the Metaverse.
+        And guess who''s the primary donor? You!"'
+  Money_Alerts_105:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 6
+      messages:
+      - '"Looks like the Metaverse has just found a new way to fund their virtual
+        empire...your bank account!"'
+  Money_Alerts_106:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 44
+      messages:
+      - '"Your bank account has been Metaversed! Don''t worry, we''ll return it to
+        its regularly scheduled programming shortly."'
+  Money_Alerts_107:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 39
+      messages:
+      - '"Looks like someone''s been playing a little too much Metaverse... and now
+        we''ve got your money!"'
+  Money_Alerts_108:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 5
+      messages:
+      - '"Looks like you''re in the McPlayPlace. Pay a virtual fee to play and contribute
+        to the McCommunity!"'
+  Money_Alerts_109:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 45
+      messages:
+      - '"Your virtual funds have been Metaversed. Looks like we''re all rich in the
+        Metaverse now!"'
+  Money_Alerts_110:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 25
+      messages:
+      - '"You''ve been struck by lightning! Pay a fee to repair the damage or lose
+        everything you''ve built in the storm!"'
+  Money_Alerts_111:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 9
+      messages:
+      - '"You''ve just landed in the McPark! Collect a virtual donation from the McCommunity
+        for your contributions to the neighborhood!"'
+  Money_Alerts_112:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 7
+      messages:
+      - '"Looks like your virtual fort is under attack. Pay a fee to repair the damage
+        or risk being overrun by opponents!"'
+  Money_Alerts_113:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 45
+      messages:
+      - '"Welcome to the virtual gambling den. Take a virtual risk and bet, but be
+        prepared to pay a virtual price!"'
+  Money_Alerts_114:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 33
+      messages:
+      - '"Attention all players: the Metaverse has just created a new virtual advisory
+        board. And you''re the first to be appointed! Get ready to help shape the
+        future of the Metaverse!"'
+  Money_Alerts_115:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 39
+      messages:
+      - '"Your virtual funds have just been Metaversed. Don''t worry, we''ll put them
+        to good use...in the Metaverse, of course!"'
+  Money_Alerts_116:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 20
+      messages:
+      - '"You''ve been hacked! Don''t worry, it''s just the Metaverse playing a prank
+        on you."'
+  Money_Alerts_117:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 38
+      messages:
+      - '"Looks like your virtual Sparrow needs a tune-up. Pay a fee to upgrade its
+        speed or risk being left in the dust by other players!"'
+  Money_Alerts_118:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 21
+      messages:
+      - '"Looks like you''ve got a ride with the Uber Bandit. Pay a virtual fee to
+        ride, and contribute to the virtual economy!"'
+  Money_Alerts_119:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 9
+      messages:
+      - '"Hold on to your wallets, folks! The Metaverse is here to drain your bank
+        account (just kidding...maybe)."'
+  Money_Alerts_120:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 33
+      messages:
+      - '"You''ve lost a Minecraft parkour challenge. Pay up to redeem yourself or
+        accept defeat!"'
+  Money_Alerts_121:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 22
+      messages:
+      - '"Advance to McSoda. Pay a virtual donation for your virtual beverage, and
+        contribute to the McCommunity!"'
+  Money_Alerts_122:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 14
+      messages:
+      - '"Looks like your virtual Ghost needs a reboot. Pay a fee to restore its functionality
+        or risk being stranded in a dangerous location!"'
+  Money_Alerts_123:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 18
+      messages:
+      - '"Attention all players: the Metaverse is here to help you manage your finances...or
+        take them over completely!"'
+  Money_Alerts_124:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 45
+      messages:
+      - '"Looks like the Metaverse has a new favorite bank account. Yours!"'
+  Money_Alerts_125:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 42
+      messages:
+      - '"Your virtual teammates are demanding tribute. Pay up to keep them happy
+        or risk being kicked out of the squad!"'
+  Money_Alerts_126:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 27
+      messages:
+      - '"You''ve been griefed by a virtual troll. Pay a fee to get justice or risk
+        letting them ruin your Minecraft world!"'
+  Money_Alerts_127:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 42
+      messages:
+      - '"Looks like your virtual boat has sunk. Pay a fee to retrieve it or risk
+        losing all your valuable cargo!"'
+  Money_Alerts_128:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 33
+      messages:
+      - '"Advance to Metaverse Tax Haven. Avoid paying virtual taxes by stashing your
+        virtual assets in offshore accounts."'
+  Money_Alerts_129:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 19
+      messages:
+      - '"Your virtual funds have been Metaversed. Don''t worry, we promise to spend
+        them wisely...in the Metaverse!"'
+  Money_Alerts_130:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 28
+      messages:
+      - '"Breaking news: the Metaverse has just discovered a way to turn your virtual
+        funds into real ones...for them!"'
+  Money_Alerts_131:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 7
+      messages:
+      - '"Breaking news: the Metaverse has just discovered a new source of income...your
+        bank account!"'
+  Money_Alerts_132:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 7
+      messages:
+      - '"Your virtual funds have been Metaversed. Looks like it''s time for you to
+        start all over again!"'
+  Money_Alerts_133:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 18
+      messages:
+      - '"Your virtual inventory is full. Pay up to buy some more storage space or
+        risk losing valuable weapons and items!"'
+  Money_Alerts_134:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 31
+      messages:
+      - '"You''ve lost a round in CS:GO. Pay up to redeem yourself or risk being eliminated
+        by your opponents in the next round!"'
+  Money_Alerts_135:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 18
+      messages:
+      - '"Advance to McPark! Collect a virtual donation from the McCommunity for your
+        contributions to the McNeighborhood!"'
+  Money_Alerts_136:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 15
+      messages:
+      - '"Looks like the Metaverse has found a new revenue stream...and it''s all
+        thanks to you!"'
+  Money_Alerts_137:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 5
+      messages:
+      - '"Breaking news: the Metaverse has just discovered the joys of online banking."'
+  Money_Alerts_138:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 27
+      messages:
+      - '"Breaking news: the Metaverse has just become your new virtual landlord.
+        Rent is due...in virtual currency!"'
+  Money_Alerts_139:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 22
+      messages:
+      - '"Looks like you''ve been hit by a fireball. Pay up to repair the damage or
+        risk losing everything to the flames!"'
+  Money_Alerts_140:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 39
+      messages:
+      - '"You''ve been struck by a virtual storm! Pay a fee to repair the damage to
+        your fort or risk losing everything to the elements!"'
+  Money_Alerts_141:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 20
+      messages:
+      - '"Breaking news: the Metaverse has just introduced a new virtual internship
+        program. And you''re the first to apply! Get ready to gain virtual experience!"'
+  Money_Alerts_142:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 12
+      messages:
+      - '"Advance to McBreakfast! Collect a virtual donation from the McCommunity
+        for being an early riser and contributing to the McEconomy!"'
+  Money_Alerts_143:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 19
+      messages:
+      - '"Your bank account has been virtually compromised by the Metaverse. Don''t
+        worry, your real money is safe!"'
+  Money_Alerts_144:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 20
+      messages:
+      - '"Attention players: the Metaverse has just started offering loans. You''re
+        automatically approved...and charged!"'
+  Money_Alerts_145:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 31
+      messages:
+      - '"Looks like your virtual Guardian needs an upgrade. Pay a fee to unlock new
+        abilities or risk being outmatched by your enemies!"'
+  Money_Alerts_146:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 12
+      messages:
+      - '"You''ve been hit by a virtual Cabal Phalanx shield. Pay up to recover your
+        balance or risk being knocked off a ledge!"'
+  Money_Alerts_147:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 33
+      messages:
+      - '"Welcome to the virtual bank. Deposit virtual money and collect virtual interest,
+        or risk virtual bankruptcy!"'
+  Money_Alerts_148:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 43
+      messages:
+      - '"Looks like the Metaverse is taking ''share the wealth'' a little too literally."'
+  Money_Alerts_149:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 25
+      messages:
+      - '"You''ve landed on Metaverse Credit Card Debt. Pay a virtual penalty for
+        overspending in the Metaverse community!"'
+  Money_Alerts_150:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 6
+      messages:
+      - '"Breaking news: the Metaverse has just levied a new tax on all player bank
+        accounts."'
+  Money_Alerts_151:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 22
+      messages:
+      - '"Looks like a creeper got your stash. Pay up to recover your lost loot or
+        start over from scratch!"'
+  Money_Alerts_152:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 20
+      messages:
+      - '"Your bank account has just been credited with a virtual donation to the
+        Metaverse community. Thank you for being a virtual benefactor!"'
+  Money_Alerts_153:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 29
+      messages:
+      - '"You''ve just landed in virtual debt. Pay a virtual fee to get out, or risk
+        drowning in virtual financial ruin!"'
+  Money_Alerts_154:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 19
+      messages:
+      - '"You''ve been hit by a virtual Cabal Phalanx shield. Pay up to recover your
+        balance or risk being knocked off a ledge!"'
+  Money_Alerts_155:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 8
+      messages:
+      - '"Breaking news: the Metaverse has just discovered a way to make money from
+        your virtual addiction."'
+  Money_Alerts_156:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 42
+      messages:
+      - '"Your bank account has just been Metaversed. Don''t worry, it''s just virtual
+        theft...in the Metaverse!"'
+  Money_Alerts_157:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 23
+      messages:
+      - '"Looks like the Metaverse is taking ''share the wealth'' a little too literally."'
+  Money_Alerts_158:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 10
+      messages:
+      - '"Your virtual funds have been Metaversed. Looks like we''re all rich in the
+        Metaverse now!"'
+  Money_Alerts_159:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 8
+      messages:
+      - '"Breaking news: the Metaverse has just introduced a new virtual ambassador
+        program. And guess who''s the first to represent? You!"'
+  Money_Alerts_160:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 5
+      messages:
+      - '"Your bank account has been virtually compromised by the Metaverse. Don''t
+        worry, your real money is safe!"'
+  Money_Alerts_161:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 19
+      messages:
+      - '"Advance to McSoda. Pay a virtual donation for your virtual beverage, and
+        contribute to the McCommunity!"'
+  Money_Alerts_162:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 20
+      messages:
+      - '"Breaking news! The Metaverse has found your secret stash of virtual cash."'
+  Money_Alerts_163:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 21
+      messages:
+      - '"Attention players: the Metaverse has just opened a virtual investment firm.
+        Your virtual funds are in good hands...theirs!"'
+  Money_Alerts_164:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 7
+      messages:
+      - '"Hold on to your wallets, folks! The Metaverse is here to drain your bank
+        account (just kidding...maybe)."'
+  Money_Alerts_165:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 28
+      messages:
+      - '"Attention all players: the Metaverse has just instituted a new policy of
+        virtual wealth redistribution...to themselves!"'
+  Money_Alerts_166:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 15
+      messages:
+      - '"Attention all players: the Metaverse is here to help you manage your finances...or
+        take them over completely!"'
+  Money_Alerts_167:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 45
+      messages:
+      - '"Advance to McPark! Collect a virtual donation from the McCommunity for your
+        contributions to the McNeighborhood!"'
+  Money_Alerts_168:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 37
+      messages:
+      - '"Your bank account has just been credited with a virtual donation to the
+        Metaverse community. Thank you for being a virtual benefactor!"'
+  Money_Alerts_169:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 19
+      messages:
+      - '"Your bank account has just been Metaversed. Time to start playing again
+        to earn it back!"'
+  Money_Alerts_170:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 39
+      messages:
+      - '"Your virtual castle has been breached. Pay a fee to rebuild your defenses
+        or risk losing everything you''ve built!"'
+  Money_Alerts_171:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 5
+      messages:
+      - '"Attention all players: the Metaverse has just launched a virtual scholarship
+        program. Thanks to your virtual donation, one lucky player can study the ways
+        of the Metaverse!"'
+  Money_Alerts_172:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 39
+      messages:
+      - '"Looks like a creeper got your stash. Pay up to recover your lost loot or
+        start over from scratch!"'
+  Money_Alerts_173:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 23
+      messages:
+      - '"Sorry, you lost the virtual game. Pay a virtual fee to play again and redeem
+        yourself, or accept defeat and lose your virtual money!"'
+  Money_Alerts_174:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 17
+      messages:
+      - '"You''ve landed on Metaverse Credit Card Debt. Pay a virtual penalty for
+        overspending in the Metaverse community!"'
+  Money_Alerts_175:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 23
+      messages:
+      - '"You''ve failed a virtual raid. Pay up to try again or risk being shunned
+        by your fireteam!"'
+  Money_Alerts_176:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 32
+      messages:
+      - '"Looks like you''ve got some bad luck. Pay a virtual fee to turn your luck
+        around, or risk losing even more!"'
+  Money_Alerts_177:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 18
+      messages:
+      - '"Your virtual inventory is full. Pay up to buy some more storage space or
+        risk losing valuable weapons and items!"'
+  Money_Alerts_178:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 21
+      messages:
+      - '"Advance to McBreakfast! Collect a virtual donation from the McCommunity
+        for being an early riser and contributing to the McEconomy!"'
+  Money_Alerts_179:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 14
+      messages:
+      - '"It''s a bird, it''s a plane...nope, just the Metaverse stealing your virtual
+        funds!"'
+  Money_Alerts_180:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 34
+      messages:
+      - '"Looks like you''ve got some bad luck. Pay a virtual fee to turn your luck
+        around, or risk losing even more!"'
+  Money_Alerts_181:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 26
+      messages:
+      - '"Looks like you''ve been taken for a virtual ride. Pay a virtual fee to get
+        off, or risk losing even more virtual money!"'
+  Money_Alerts_182:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 11
+      messages:
+      - '"Looks like you''ve just landed on McHappy Meal. Collect a virtual toy and
+        a virtual donation to the McCommunity!"'
+  Money_Alerts_183:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 14
+      messages:
+      - '"Breaking news: the Metaverse has just discovered a way to turn your virtual
+        funds into real ones...for them!"'
+  Money_Alerts_184:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 15
+      messages:
+      - '"You''ve just landed in the virtual stock market. Invest virtual money and
+        make virtual profits, or risk losing it all!"'
+  Money_Alerts_185:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 25
+      messages:
+      - '"Your virtual funds have just been used to support the growth of the Metaverse
+        community. Thanks for being a virtual investor!"'
+  Money_Alerts_186:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 5
+      messages:
+      - '"Looks like you''ve been caught in a virtual grenade blast. Pay a fee to
+        heal your wounds or risk losing health points!"'
+  Money_Alerts_187:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 35
+      messages:
+      - '"Breaking news: the Metaverse has just instituted a new policy of taking
+        a portion of every player''s bank account. Welcome to the Metaverse!"'
+  Money_Alerts_188:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 35
+      messages:
+      - '"Your bank account has been Metaversed. Don''t worry, it''s all in good fun...for
+        us!"'
+  Money_Alerts_189:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 31
+      messages:
+      - '"Looks like the Metaverse is taking ''share the wealth'' a little too literally."'
+  Money_Alerts_190:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 31
+      messages:
+      - '"Your virtual funds have just been Metaversed. Don''t worry, we''ll spend
+        it on virtual unicorns and rainbows...in the Metaverse!"'
+  Money_Alerts_191:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 14
+      messages:
+      - '"Looks like a creeper got your stash. Pay up to recover your lost loot or
+        start over from scratch!"'
+  Money_Alerts_192:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 12
+      messages:
+      - '"You''ve lost a Fortnite LTM challenge. Pay up to challenge your opponents
+        to a rematch or accept the loss!"'
+  Money_Alerts_193:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 30
+      messages:
+      - '"Breaking news: Your bank account has been hacked! But don''t worry, we promise
+        it was for a good cause (ours)."'
+  Money_Alerts_194:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 22
+      messages:
+      - '"You''ve been hacked! Don''t worry, it''s just the Metaverse playing a prank
+        on you."'
+  Money_Alerts_195:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 25
+      messages:
+      - '"Your virtual funds have been Metaversed. Looks like it''s time for you to
+        start all over again!"'
+  Money_Alerts_196:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 43
+      messages:
+      - '"Attention players! The Metaverse has found a new way to collect donations...from
+        your bank account!"'
+  Money_Alerts_197:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 42
+      messages:
+      - '"Welcome to the virtual bank. Deposit virtual money and collect virtual interest,
+        or risk virtual bankruptcy!"'
+  Money_Alerts_198:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 42
+      messages:
+      - '"Attention all players: the Metaverse has just set up its own virtual bank.
+        And you''re all customers!"'
+  Money_Alerts_199:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 33
+      messages:
+      - '"Attention players: the Metaverse has just launched a virtual mentorship
+        program. Thanks to your virtual experience, you can help guide others in the
+        ways of the Metaverse!"'
+  Money_Alerts_200:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 25
+      messages:
+      - '"Breaking news: the Metaverse has just introduced a new virtual ambassador
+        program. And guess who''s the first to represent? You!"'
+  Money_Alerts_201:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 31
+      messages:
+      - '"Attention all players: the Metaverse has just re-allocated your virtual
+        funds. Thank you for your contribution."'
+  Money_Alerts_202:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 39
+      messages:
+      - '"Attention players: the Metaverse has just launched a new virtual insurance
+        program. Unfortunately, it only covers virtual losses to the Metaverse!"'
+  Money_Alerts_203:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 12
+      messages:
+      - '"Advance to McPark! Collect a virtual donation from the McCommunity for your
+        contributions to the McNeighborhood!"'
+  Money_Alerts_204:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 13
+      messages:
+      - '"Your bank account has just been hit with a Metaverse ATM fee. Thanks for
+        playing...and paying!"'
+  Money_Alerts_205:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 25
+      messages:
+      - '"Looks like the Metaverse has found a new revenue stream...and it''s all
+        thanks to you!"'
+  Money_Alerts_206:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 19
+      messages:
+      - '"You''ve lost a Minecraft build battle. Pay up to challenge your opponent
+        to a rematch or accept the loss!"'
+  Money_Alerts_207:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 38
+      messages:
+      - '"Looks like you''ve got a ride with the Uber Bandit. Pay a virtual fee to
+        ride, and contribute to the virtual economy!"'
+  Money_Alerts_208:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 21
+      messages:
+      - '"You''ve lost a Minecraft survival challenge. Pay up to try again or accept
+        defeat!"'
+  Money_Alerts_209:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 29
+      messages:
+      - '"Welcome to McBreakfast! Collect a virtual donation from the McCommunity
+        for being an early riser and contributing to the McEconomy!"'
+  Money_Alerts_210:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 6
+      messages:
+      - '"Looks like the Metaverse has just implemented a new virtual payment plan.
+        And guess who''s on the hook for it? You!"'
+  Money_Alerts_211:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 35
+      messages:
+      - '"Attention players! The Metaverse has found a new way to collect donations...from
+        your bank account!"'
+  Money_Alerts_212:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 44
+      messages:
+      - '"Breaking news: the Metaverse has just found a way to turn your virtual funds
+        into real profits...for themselves!"'
+  Money_Alerts_213:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 21
+      messages:
+      - '"Your Fortnite account has been hacked! Pay a fee to recover your lost skins
+        or start over with nothing!"'
+  Money_Alerts_214:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 19
+      messages:
+      - '"Your virtual inventory is full. Pay up to buy some more storage space or
+        risk losing valuable weapons and items!"'
+  Money_Alerts_215:
+    default:
+      chance: 1
+      commands:
+      - rec purse remove %player% 22
+      messages:
+      - '"Looks like you''ve been caught in a virtual grenade blast. Pay a fee to
+        heal your wounds or risk losing health points!"'
